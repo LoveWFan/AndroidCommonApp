@@ -1,0 +1,2 @@
+# AndroidCommonApp
+Android 底部导航栏以及侧滑菜单栏 并包含支持上拉加载下拉刷新的ListView以及滑动删除的ListViewItem
