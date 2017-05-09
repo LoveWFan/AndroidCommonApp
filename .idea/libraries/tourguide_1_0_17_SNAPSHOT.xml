@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="tourguide-1.0.17-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.github.worker8/tourguide/1.0.17-SNAPSHOT/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.github.worker8/tourguide/1.0.17-SNAPSHOT/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://G:/gradle/gradle-2.14.1/caches/modules-2/files-2.1/com.github.worker8/tourguide/1.0.17-SNAPSHOT/67a8a6c5f6727a42def2c9b15c2060ca5d4a5373/tourguide-1.0.17-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
