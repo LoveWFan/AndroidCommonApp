@@ -8,4 +8,7 @@
     <string name="setServer">配置服务器</string>
     <string name="userLogin">登录</string>
     <string name="hello_world">Hello world!</string>
+
+
+    <string name="action_config">Config</string>
 </resources>
